@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reemasabatin
 - 👀 I’m interested in innovation, technology,research, agricultural economics, and law
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me https://www.linkedin.com/in/reema-sabatin-ba9959231/
 
